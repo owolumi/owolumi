@@ -10,3 +10,6 @@ My main projects include small shell scripts and discord bots, I also sometimes 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=LoveyTove&hide_title=true&langs_count=5&theme=transparent" alt="Top Languages" />
 </p>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=LoveyTove&repo=LoveyTove%2FToves-Hyprland-Config&theme=transparent" alt="Hyprland Config Files" />
+</p>
